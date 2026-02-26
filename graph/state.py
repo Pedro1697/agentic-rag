@@ -13,6 +13,6 @@ class GraphState(TypedDict):
     """
 
     question: str
-    genertion: str
+    generation: str
     web_search: bool
     documents: list[str]
